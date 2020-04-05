@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_z2_plus.mk
+    $(LOCAL_DIR)/superior_z2_plus.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_z2_plus-user \
-    lineage_z2_plus-userdebug \
-    lineage_z2_plus-eng
+    superior_z2_plus-user \
+    superior_z2_plus-userdebug \
+    superior_z2_plus-eng
